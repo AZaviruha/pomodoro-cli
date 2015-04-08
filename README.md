@@ -1,6 +1,22 @@
 # pomodoro-cli
 haskell newbie project
 
+## How it looks like
+```shell
+############################## 
+####### Pomodoro Timer ####### 
+############################## 
+#  1 - Start pomodoro timer  # 
+#  2 - Start short break     # 
+#  3 - Start long break      # 
+#  4 - Exit                  # 
+############################## 
+λ> 1                           
+Pomodoro started               
+24:59                          
+```
+
+## Help
 ```shell
 > pomodoro-cli -h
 
