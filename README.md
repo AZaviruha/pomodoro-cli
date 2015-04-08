@@ -15,8 +15,9 @@ sudo apt-get install libalut0 libalut-dev
 -- Cabal dependencies
 cabal sandbox init
 cabal install
+cabal configure
+cabal build
 ```
-
 
 ## How it looks like
 ```shell
