@@ -11,6 +11,10 @@ sudo apt-get install libopenal1 libopenal-dev
 
 -- ALUT:     
 sudo apt-get install libalut0 libalut-dev
+
+-- Cabal dependencies
+cabal sandbox init
+cabal install
 ```
 
 
