@@ -3,6 +3,8 @@ haskell newbie project
 
 ## How it looks like
 ```shell
+> pomodoro-cli --alarm=./.../my-alarm.wav
+
 ############################## 
 ####### Pomodoro Timer ####### 
 ############################## 
