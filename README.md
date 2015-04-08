@@ -1,6 +1,19 @@
 # pomodoro-cli
 haskell newbie project
 
+## How to build
+```shell
+-- OpenGL:   
+sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+
+-- OpenAL:  
+sudo apt-get install libopenal1 libopenal-dev
+
+-- ALUT:     
+sudo apt-get install libalut0 libalut-dev
+```
+
+
 ## How it looks like
 ```shell
 > pomodoro-cli --alarm=./.../my-alarm.wav
