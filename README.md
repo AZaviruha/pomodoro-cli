@@ -12,6 +12,9 @@ sudo apt-get install libopenal1 libopenal-dev
 -- ALUT:     
 sudo apt-get install libalut0 libalut-dev
 
+-- readline
+sudo apt-get install libreadline6 libreadline6-dev
+
 -- Cabal dependencies
 cabal sandbox init
 cabal install
